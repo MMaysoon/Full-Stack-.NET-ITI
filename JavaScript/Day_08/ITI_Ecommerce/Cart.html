@@ -1,0 +1,63 @@
+<html>
+
+<head>
+    <title>Cart</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+
+<body class="bg-light">
+
+    <!-- Header -->
+    <header class="bg-white shadow-sm py-3 mb-4 mt-2 mx-auto rounded-4" style="width:75%;">
+        <div class="container text-center">
+            <h1 class="fw-bold">
+                Your Cart <i class="fa-solid fa-cart-shopping text-warning"></i>
+            </h1>
+        </div>
+    </header>
+
+    <!-- Cart Container -->
+    <div class="container my-5" style="width:75%;">
+        <table class="table table-bordered text-center align-middle">
+            <thead class="table-light">
+                <tr>
+                    <th>Image</th>
+                    <th>Title</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Total</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="cart_list">
+                <!-- Products -->
+            </tbody>
+        </table>
+
+        <!-- Total price -->
+        <div class="text-end fw-bold fs-5 my-3">
+            Cart Total: $<span id="cart_total">0.00</span>
+        </div>
+
+        <!-- Buttons -->
+        <div class="d-flex justify-content-between">
+            <button class="btn btn-secondary" onclick="window.location.href='index.html'">
+                Continue Shopping
+            </button>
+
+            <button class="btn btn-success" onclick="purchaseCart()">
+                Purchase
+            </button>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="JS/cart.js"></script>
+</body>
+
+</html>

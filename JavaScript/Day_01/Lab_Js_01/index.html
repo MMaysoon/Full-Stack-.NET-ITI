@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Lab_JS_01</title>
+
+        <!-- Internal Script -->
+        <script>
+           var num1=10 
+           var num2='22'
+           var num3=null;
+           
+        
+        //  Sum identical -> 1022null
+         var sum1=num1+num2+num3;
+         
+
+        // Sum convert string -> 10+22+0=32.000
+         var sum2=num1+parseInt(num2)+num3
+
+
+        // sum = num1 +num3 => 10+0=10
+        var sum3=num1+num3
+
+
+        // varaible without initalization
+        var x;
+
+
+        // multpli num1* undefined num -> NaN
+        var mutli=num1*x;
+          
+        </script>
+
+        <!-- External Script -->
+        <script src="js/external.js"></script>
+    </head>
+    <body>
+
+    </body>
+</html>

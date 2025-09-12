@@ -1,0 +1,28 @@
+.card {
+  height: 350px;       
+  display: flex;      
+  flex-direction: column;
+}
+
+.card img {
+  height: 150px;        
+  object-fit: contain;  
+  padding: 10px;        
+}
+
+.card-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; 
+}
+
+.card-text {
+  font-size: 13px;         
+  color: red;  
+  font-weight: bold;           
+}
+
+.card-title {
+  font-size: 14px; 
+ }

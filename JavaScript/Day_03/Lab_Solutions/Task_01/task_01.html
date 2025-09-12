@@ -1,0 +1,28 @@
+<html>
+
+<head>
+    <title>Welcome</title>
+    <script>
+        
+        var text = "welcome to lab_02 js"
+        var i = -1;
+        function typeWriter() {
+           
+            if (i < text.length) {
+
+                document.write(text.charAt(i));
+                setTimeout(typeWriter, 200);
+                i++;
+            }
+            else {
+                setTimeout(function(){
+                    window.close()
+                },200)
+            }
+        }
+
+        typeWriter();
+    </script>
+</head>
+
+</html>

@@ -1,0 +1,5 @@
+map
+every 
+reduce
+from 
+find

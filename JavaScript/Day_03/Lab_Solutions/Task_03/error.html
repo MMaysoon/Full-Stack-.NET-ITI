@@ -1,0 +1,18 @@
+<html>
+
+<head>
+    <title>
+        WELCOME
+    </title>
+
+    <script>
+        window.onload = function() {
+            let params = new URLSearchParams(window.location.search);
+            let msg = params.get("msg");
+            document.write("<h1 style='color:red;text-align:center'>" + msg + "</h1>");
+        }
+    </script>
+
+</head>
+
+</html>
