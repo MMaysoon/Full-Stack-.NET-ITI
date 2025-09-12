@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\bin\Debug\net8.0\Employee.exe
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\bin\Debug\net8.0\Employee.deps.json
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\bin\Debug\net8.0\Employee.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\bin\Debug\net8.0\Employee.pdb
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\obj\Debug\net8.0\Employee.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\obj\Debug\net8.0\refint\Employee.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\obj\Debug\net8.0\Employee.pdb
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Employee\obj\Debug\net8.0\ref\Employee.dll
