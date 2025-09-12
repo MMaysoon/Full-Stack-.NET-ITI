@@ -1,0 +1,53 @@
+.items_Container {
+  height:400px;
+  margin: 100px auto;
+  border-top: 3px solid grey;
+  border-bottom: 3px solid grey;
+  padding: 20px;
+}
+
+.items_Container h2 {
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: left;
+  
+}
+
+.cards {
+  text-align: center; 
+}
+
+.card {
+  display: inline-block;
+  vertical-align: top;   
+  width: 30%;
+  text-align: left;
+}
+
+.items_Container .card h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 40px 0;
+}
+
+.items_Container .card h3::after {
+  content: "";
+  display: block;
+  width: 20px;       /* طول الخط */
+  height: 1px;       /* سمك الخط */
+  background: rgb(14, 14, 14); 
+  margin-top: 5px;
+}
+
+
+.card .small {
+  font-size: 16px;
+  margin-bottom: 14px;  
+}
+
+.card .desc {
+  display: inline;    
+  font-size: 14px;
+  color: rgb(14, 14, 14);
+}
+

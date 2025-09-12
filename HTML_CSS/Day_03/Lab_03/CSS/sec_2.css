@@ -1,0 +1,48 @@
+.desc {
+  width: 90%;
+  margin: 100px auto;
+  height: 200px;
+}
+
+
+.desc_col {
+  display: inline-block;
+  width: 45%;
+  vertical-align: middle;
+  padding-left: 50px;
+  font-size: 20px;
+  color: #252422;
+}
+
+.desc_col b {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+.desc_col button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border-radius: 40px;
+  border: 2px solid #252422;
+  background-color: white;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.desc_col button:hover {
+  background-color: #f9cdcd; 
+  border-color: #f9cdcd;
+}
+
+
+.desc_logo {
+  display: inline-block;
+  width: 45%;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 150px;
+  font-weight: bolder;
+  color: #252422;
+}
