@@ -1,0 +1,67 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Complex
+{
+    internal class Cp
+    {
+        int real;
+        int imaginary;
+        static int count = 0;
+
+        public static int  GetCount() { return count; }
+        public void SetReal(int _real) { real = _real; }
+        public void SetImg(int _imaginary) { imaginary = _imaginary; }
+
+        public int GetReal() { return real; }
+
+        public int GetImg() { return imaginary; }
+
+        public Cp(int _real, int _img)
+        {
+            SetReal(_real);
+            SetImg(_img);
+            count ++;
+        }
+
+        public void Print()
+        {
+            if (imaginary > 0)
+            {
+                Console.WriteLine($"{real}+{imaginary}j");
+            }
+            else if (imaginary < 0)
+            {
+                Console.WriteLine($"{real}{imaginary}j");
+            }
+            else
+            {
+                Console.WriteLine($"{real}j");
+            }
+        }
+
+        // Operator Overload
+        public static Cp operator +(Cp c1, Cp c2)
+        {
+            return new Cp(c1.real+c2.real,c1.imaginary+c2.imaginary);
+        }
+
+        public static Cp operator -(Cp c1, Cp c2)
+        {
+            return new Cp(c1.real - c2.real, c1.imaginary - c2.imaginary);
+        }
+
+        public static bool operator ==(Cp c1, Cp c2)
+        {
+            return ( (c1.real == c2.real) && (c1.imaginary == c2.imaginary));
+        }
+
+        public static bool operator !=(Cp c1, Cp c2)
+        {
+            return !(c1==c2);
+        }
+    }
+}
