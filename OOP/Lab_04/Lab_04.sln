@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complex", "Complex\Complex.csproj", "{9C8D31B5-E5EA-4E1C-817F-84AFD8FE59A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{7ACF5FD7-6349-4A54-BECF-112877DAD8BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction", "Fraction\Fraction.csproj", "{EE08A1F2-391C-4385-829A-1A707D374DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8D31B5-E5EA-4E1C-817F-84AFD8FE59A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8D31B5-E5EA-4E1C-817F-84AFD8FE59A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8D31B5-E5EA-4E1C-817F-84AFD8FE59A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8D31B5-E5EA-4E1C-817F-84AFD8FE59A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ACF5FD7-6349-4A54-BECF-112877DAD8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACF5FD7-6349-4A54-BECF-112877DAD8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACF5FD7-6349-4A54-BECF-112877DAD8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACF5FD7-6349-4A54-BECF-112877DAD8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE08A1F2-391C-4385-829A-1A707D374DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE08A1F2-391C-4385-829A-1A707D374DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE08A1F2-391C-4385-829A-1A707D374DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE08A1F2-391C-4385-829A-1A707D374DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {381F3630-2689-4AC2-85CE-D12C7DF521F0}
+	EndGlobalSection
+EndGlobal

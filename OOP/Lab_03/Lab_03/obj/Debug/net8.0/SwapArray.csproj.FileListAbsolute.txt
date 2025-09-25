@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\bin\Debug\net8.0\SwapArray.exe
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\bin\Debug\net8.0\SwapArray.deps.json
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\bin\Debug\net8.0\SwapArray.runtimeconfig.json
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\bin\Debug\net8.0\SwapArray.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\bin\Debug\net8.0\SwapArray.pdb
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\obj\Debug\net8.0\SwapArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\obj\Debug\net8.0\SwapArray.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\obj\Debug\net8.0\SwapArray.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\obj\Debug\net8.0\SwapArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\obj\Debug\net8.0\SwapArray.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\obj\Debug\net8.0\refint\SwapArray.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\obj\Debug\net8.0\SwapArray.pdb
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\obj\Debug\net8.0\SwapArray.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_03\Lab_03\obj\Debug\net8.0\ref\SwapArray.dll

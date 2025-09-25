@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\bin\Debug\net8.0\Lab_02.exe
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\bin\Debug\net8.0\Lab_02.deps.json
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\bin\Debug\net8.0\Lab_02.runtimeconfig.json
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\bin\Debug\net8.0\Lab_02.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\bin\Debug\net8.0\Lab_02.pdb
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\obj\Debug\net8.0\Lab_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\obj\Debug\net8.0\Lab_02.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\obj\Debug\net8.0\Lab_02.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\obj\Debug\net8.0\Lab_02.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\obj\Debug\net8.0\Lab_02.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\obj\Debug\net8.0\refint\Lab_02.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\obj\Debug\net8.0\Lab_02.pdb
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\obj\Debug\net8.0\Lab_02.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_02\Lab_02\obj\Debug\net8.0\ref\Lab_02.dll

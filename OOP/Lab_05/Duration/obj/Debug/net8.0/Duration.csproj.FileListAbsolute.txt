@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\bin\Debug\net8.0\Duration.exe
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\bin\Debug\net8.0\Duration.deps.json
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\bin\Debug\net8.0\Duration.runtimeconfig.json
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\bin\Debug\net8.0\Duration.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\bin\Debug\net8.0\Duration.pdb
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\obj\Debug\net8.0\Duration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\obj\Debug\net8.0\Duration.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\obj\Debug\net8.0\Duration.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\obj\Debug\net8.0\Duration.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\obj\Debug\net8.0\Duration.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\obj\Debug\net8.0\refint\Duration.dll
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\obj\Debug\net8.0\Duration.pdb
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\obj\Debug\net8.0\Duration.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\OOP\Lab_05\Duration\obj\Debug\net8.0\ref\Duration.dll
