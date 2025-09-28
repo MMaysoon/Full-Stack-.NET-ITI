@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\bin\Debug\net8.0-windows\Task_4_Paint_Clear.exe
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\bin\Debug\net8.0-windows\Task_4_Paint_Clear.deps.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\bin\Debug\net8.0-windows\Task_4_Paint_Clear.runtimeconfig.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\bin\Debug\net8.0-windows\Task_4_Paint_Clear.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\bin\Debug\net8.0-windows\Task_4_Paint_Clear.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\Task_4_Paint_Clear.Form1.resources
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\Task_4_Paint_Clear.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\Task_4_Paint_Clear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\Task_4_Paint_Clear.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\Task_4_Paint_Clear.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\Task_4_Paint_Clear.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\Task_4_Paint_Clear.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\refint\Task_4_Paint_Clear.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\Task_4_Paint_Clear.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\Task_4_Paint_Clear.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_4_Paint_Clear\Task_4_Paint_Clear\obj\Debug\net8.0-windows\ref\Task_4_Paint_Clear.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\bin\Debug\net8.0\Swap.exe
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\bin\Debug\net8.0\Swap.deps.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\bin\Debug\net8.0\Swap.runtimeconfig.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\bin\Debug\net8.0\Swap.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\bin\Debug\net8.0\Swap.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\obj\Debug\net8.0\Swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\obj\Debug\net8.0\Swap.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\obj\Debug\net8.0\Swap.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\obj\Debug\net8.0\Swap.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\obj\Debug\net8.0\Swap.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\obj\Debug\net8.0\refint\Swap.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\obj\Debug\net8.0\Swap.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\obj\Debug\net8.0\Swap.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_02_IComparable_IComparer\Swap\obj\Debug\net8.0\ref\Swap.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\bin\Debug\net8.0\Task_Delegate.exe
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\bin\Debug\net8.0\Task_Delegate.deps.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\bin\Debug\net8.0\Task_Delegate.runtimeconfig.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\bin\Debug\net8.0\Task_Delegate.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\bin\Debug\net8.0\Task_Delegate.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\obj\Debug\net8.0\Task_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\obj\Debug\net8.0\Task_Delegate.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\obj\Debug\net8.0\Task_Delegate.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\obj\Debug\net8.0\Task_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\obj\Debug\net8.0\Task_Delegate.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\obj\Debug\net8.0\refint\Task_Delegate.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\obj\Debug\net8.0\Task_Delegate.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\obj\Debug\net8.0\Task_Delegate.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_02\Task_4_Delgate\Task_Delegate\obj\Debug\net8.0\ref\Task_Delegate.dll

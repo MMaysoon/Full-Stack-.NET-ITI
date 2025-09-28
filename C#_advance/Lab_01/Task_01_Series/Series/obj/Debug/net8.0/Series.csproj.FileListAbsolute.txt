@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\bin\Debug\net8.0\Series.exe
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\bin\Debug\net8.0\Series.deps.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\bin\Debug\net8.0\Series.runtimeconfig.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\bin\Debug\net8.0\Series.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\bin\Debug\net8.0\Series.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\obj\Debug\net8.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\obj\Debug\net8.0\Series.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\obj\Debug\net8.0\Series.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\obj\Debug\net8.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\obj\Debug\net8.0\Series.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\obj\Debug\net8.0\refint\Series.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\obj\Debug\net8.0\Series.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\obj\Debug\net8.0\Series.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_01\Task_01_Series\Series\obj\Debug\net8.0\ref\Series.dll

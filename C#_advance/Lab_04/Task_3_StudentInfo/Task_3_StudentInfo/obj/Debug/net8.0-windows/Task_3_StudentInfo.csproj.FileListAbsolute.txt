@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\bin\Debug\net8.0-windows\Task_3_StudentInfo.exe
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\bin\Debug\net8.0-windows\Task_3_StudentInfo.deps.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\bin\Debug\net8.0-windows\Task_3_StudentInfo.runtimeconfig.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\bin\Debug\net8.0-windows\Task_3_StudentInfo.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\bin\Debug\net8.0-windows\Task_3_StudentInfo.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\Task_3_StudentInfo.Form1.resources
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\Task_3_StudentInfo.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\Task_3_StudentInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\Task_3_StudentInfo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\Task_3_StudentInfo.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\Task_3_StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\Task_3_StudentInfo.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\refint\Task_3_StudentInfo.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\Task_3_StudentInfo.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\Task_3_StudentInfo.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_3_StudentInfo\Task_3_StudentInfo\obj\Debug\net8.0-windows\ref\Task_3_StudentInfo.dll

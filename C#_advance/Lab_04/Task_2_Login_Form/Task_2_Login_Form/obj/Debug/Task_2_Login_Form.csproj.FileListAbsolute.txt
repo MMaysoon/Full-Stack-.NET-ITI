@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\bin\Debug\Task_2_Login_Form.exe.config
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\bin\Debug\Task_2_Login_Form.exe
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\bin\Debug\Task_2_Login_Form.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\obj\Debug\Task_2_Login_Form.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\obj\Debug\Task_2_Login_Form.Form1.resources
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\obj\Debug\Task_2_Login_Form.Properties.Resources.resources
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\obj\Debug\Task_2_Login_Form.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\obj\Debug\Task_2_Login_Form.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\obj\Debug\Task_2_Login_Form.exe
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\obj\Debug\Task_2_Login_Form.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_2_Login_Form\Task_2_Login_Form\obj\Debug\Task_2_Login_Form.exe.config

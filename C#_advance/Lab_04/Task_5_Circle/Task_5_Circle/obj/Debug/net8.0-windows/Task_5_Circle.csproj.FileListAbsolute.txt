@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\bin\Debug\net8.0-windows\Task_5_Circle.exe
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\bin\Debug\net8.0-windows\Task_5_Circle.deps.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\bin\Debug\net8.0-windows\Task_5_Circle.runtimeconfig.json
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\bin\Debug\net8.0-windows\Task_5_Circle.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\bin\Debug\net8.0-windows\Task_5_Circle.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\Task_5_Circle.Form1.resources
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\Task_5_Circle.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\Task_5_Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\Task_5_Circle.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\Task_5_Circle.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\Task_5_Circle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\Task_5_Circle.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\refint\Task_5_Circle.dll
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\Task_5_Circle.pdb
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\Task_5_Circle.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\C#_advance\Lab_04\Task_5_Circle\Task_5_Circle\obj\Debug\net8.0-windows\ref\Task_5_Circle.dll

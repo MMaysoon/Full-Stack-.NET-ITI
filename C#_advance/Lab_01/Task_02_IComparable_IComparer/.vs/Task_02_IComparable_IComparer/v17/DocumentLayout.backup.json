@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\Lab_01\\Task_02_IComparable_IComparer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{613EDE7F-7A82-4E31-94C5-A90A409A0A70}|Swap\\Swap.csproj|c:\\users\\user\\desktop\\iti\\c#_advance\\lab_01\\task_02_icomparable_icomparer\\swap\\comparebyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613EDE7F-7A82-4E31-94C5-A90A409A0A70}|Swap\\Swap.csproj|solutionrelative:swap\\comparebyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613EDE7F-7A82-4E31-94C5-A90A409A0A70}|Swap\\Swap.csproj|c:\\users\\user\\desktop\\iti\\c#_advance\\lab_01\\task_02_icomparable_icomparer\\swap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613EDE7F-7A82-4E31-94C5-A90A409A0A70}|Swap\\Swap.csproj|solutionrelative:swap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613EDE7F-7A82-4E31-94C5-A90A409A0A70}|Swap\\Swap.csproj|c:\\users\\user\\desktop\\iti\\c#_advance\\lab_01\\task_02_icomparable_icomparer\\swap\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613EDE7F-7A82-4E31-94C5-A90A409A0A70}|Swap\\Swap.csproj|solutionrelative:swap\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{613EDE7F-7A82-4E31-94C5-A90A409A0A70}|Swap\\Swap.csproj|c:\\users\\user\\desktop\\iti\\c#_advance\\lab_01\\task_02_icomparable_icomparer\\swap\\comparebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613EDE7F-7A82-4E31-94C5-A90A409A0A70}|Swap\\Swap.csproj|solutionrelative:swap\\comparebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompareById.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\Lab_01\\Task_02_IComparable_IComparer\\Swap\\CompareById.cs",
+              "RelativeDocumentMoniker": "Swap\\CompareById.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\Lab_01\\Task_02_IComparable_IComparer\\Swap\\CompareById.cs",
+              "RelativeToolTip": "Swap\\CompareById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T10:48:54.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompareByName.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\Lab_01\\Task_02_IComparable_IComparer\\Swap\\CompareByName.cs",
+              "RelativeDocumentMoniker": "Swap\\CompareByName.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\Lab_01\\Task_02_IComparable_IComparer\\Swap\\CompareByName.cs",
+              "RelativeToolTip": "Swap\\CompareByName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T10:48:22.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\Lab_01\\Task_02_IComparable_IComparer\\Swap\\Emp.cs",
+              "RelativeDocumentMoniker": "Swap\\Emp.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\Lab_01\\Task_02_IComparable_IComparer\\Swap\\Emp.cs",
+              "RelativeToolTip": "Swap\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T10:29:47.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\Lab_01\\Task_02_IComparable_IComparer\\Swap\\Program.cs",
+              "RelativeDocumentMoniker": "Swap\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\Lab_01\\Task_02_IComparable_IComparer\\Swap\\Program.cs",
+              "RelativeToolTip": "Swap\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T10:26:29.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
