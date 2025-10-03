@@ -1,0 +1,16 @@
+[5 mark] (2 + 2) = 4? - 
+   A) True [✓]
+   B) False 
+
+[5 mark] What is 5 * 3? - 
+   A) 10 
+   B) 15 [✓]
+   C) 20 
+
+[10 mark] Which of the following numbers are prime? - 
+   A) 2 [✓]
+   B) 3 [✓]
+   C) 4 
+   D) 5 [✓]
+   E) 6 
+
