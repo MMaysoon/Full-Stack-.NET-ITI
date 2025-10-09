@@ -1,0 +1,146 @@
+<html>
+
+<head>
+    <title>Flex_Task</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    <style>
+        header {
+            text-align: center;
+            padding: 20px;
+        }
+
+        h3 {
+            font-size: 40px;
+            font-weight: bold;
+        }
+
+        header p {
+            font-size: 20px;
+            color: grey;
+        }
+
+        .main {
+            display: flex;
+            justify-content: center;
+            gap: 50px;
+            padding: 50px;
+        }
+
+        img {
+            width: 300px;
+            height: 300px;
+            border: 2px black;
+        }
+
+
+        .branches {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: center;
+        }
+
+        .branch {
+            width: 40%;
+            padding: 10px;
+            border-radius: 5px;
+            background-color:  rgb(192, 193, 205);
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+            
+        }
+
+        .footer {
+            margin: auto;
+            border: 20px;
+            background-color: rgb(192, 193, 205);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 75%;
+            gap: 20%
+        }
+
+        .contact {
+            width: 30%;
+            font-size: 24px;
+
+        }
+
+        .follow {
+            width: 30%
+        }
+
+        .follow p {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .social {
+            display: flex;
+            gap: 10px;
+        }
+
+        .social a {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 40px;
+            height: 40px;
+            background-color: rgb(169, 174, 216);
+            color: #333;
+            border-radius: 50%;
+            text-decoration: none;
+        }
+
+       
+    </style>
+
+
+
+</head>
+
+<body>
+    <header>
+        <h3>ITI Locations</h3>
+        <p>ITI Main Locations All Over Country </p>
+    </header>
+    <section class="main">
+        <div class="Map">
+            <img src="img/map.png" alt="Map Image">
+        </div>
+
+        <div class="branches">
+            <div class="branch" style="color:brown">ITI - Smart Village</div>
+            <div class="branch">ITI - Alexandria</div>
+            <div class="branch">ITI - Assuit</div>
+            <div class="branch">ITI - Aswan</div>
+            <div class="branch">ITI - Ismailia</div>
+            <div class="branch">ITI - Mansoura</div>
+            <div class="branch">ITI - Menofia</div>
+            <div class="branch">ITI - Minya</div>
+        </div>
+    </section>
+
+    <section class="Footer">
+        <div class="contact">
+            <p>📍Mansoura / Egypt </p>
+            <p>📞(+20) 111 555 66</p>
+            <p>✉️ itiInfo@iti.gov.eg</p>
+        </div>
+
+        <div class="follow">
+            <p>Follow Us</p>
+            <div class="social">
+                <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="#"><i class="fa-brands fa-youtube"></i></a>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

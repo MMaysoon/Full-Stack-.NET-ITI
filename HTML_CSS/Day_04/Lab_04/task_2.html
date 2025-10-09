@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Task_2</title>
+    <style>
+        .big-div {
+            width: 75%;
+            margin: 50px auto;
+            background: #beb9c7;
+            box-shadow: 20px 20px 30px rgba(105, 78, 181, 0.5);
+            padding: 20px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            transition: transform 1.5s;
+        }
+
+        .big-div:hover {
+            transform: skewx(12deg);
+            box-shadow: 20px 20px 30px rgba(218, 8, 8, 0.5);
+        }
+
+        .text-div {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 10px;
+        }
+
+        .text-div div {
+            background: #f9f9f9;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .image-div {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 7px;
+        }
+
+        .image-div img {
+            width: 50px;
+            height: 90px;
+            border-radius: 5px;
+            transition: transform 1.5s, box-shadow 1.5s;
+            border: 2px solid rgb(140, 140, 154);
+        }
+
+        .image-div img:hover {
+            transform: scale(3);
+            box-shadow: 20px 20px 30px rgba(218, 8, 8, 0.5);
+        }
+
+        .big-div:has(.image-div img:hover) {
+            transform: scale(0.7);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="big-div">
+        <div class="text-div">
+            <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat accusantium corrupti repudiandae
+                magni voluptas? Adipisci deleniti assumenda minima rerum sunt dolorem tempore voluptate incidunt.</div>
+            <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat accusantium corrupti repudiandae
+                magni voluptas? Adipisci deleniti assumenda minima rerum sunt dolorem tempore voluptate incidunt.</div>
+            <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat accusantium corrupti repudiandae
+                magni voluptas? Adipisci deleniti assumenda minima rerum sunt dolorem tempore voluptate incidunt.</div>
+        </div>
+
+        <div class="image-div">
+            <img src="img/1.jpg" alt="img1">
+            <img src="img/2.jpg" alt="img2">
+            <img src="img/3.jpg" alt="img3">
+            <img src="img/4.jpg" alt="img4">
+            <img src="img/5.jpg" alt="img5">
+            <img src="img/1.jpg" alt="img1">
+            <img src="img/2.jpg" alt="img2">
+            <img src="img/3.jpg" alt="img3">
+            <img src="img/4.jpg" alt="img4">
+            <img src="img/5.jpg" alt="img5">
+            <img src="img/6.jpg" alt="img6">
+            <img src="img/1.jpg" alt="img1">
+            <img src="img/2.jpg" alt="img2">
+            <img src="img/3.jpg" alt="img3">
+            <img src="img/4.jpg" alt="img4">
+            <img src="img/5.jpg" alt="img5">
+            <img src="img/6.jpg" alt="img6">
+            <img src="img/6.jpg" alt="img6">
+            <img src="img/1.jpg" alt="img1">
+            <img src="img/2.jpg" alt="img2">
+            <img src="img/3.jpg" alt="img3">
+            <img src="img/4.jpg" alt="img4">
+            <img src="img/5.jpg" alt="img5">
+            <img src="img/6.jpg" alt="img6">
+
+        </div>
+    </div>
+
+</body>
+
+</html>

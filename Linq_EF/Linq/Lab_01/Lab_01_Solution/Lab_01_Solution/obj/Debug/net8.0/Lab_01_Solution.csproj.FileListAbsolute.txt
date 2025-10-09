@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\bin\Debug\net8.0\Lab_01_Solution.exe
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\bin\Debug\net8.0\Lab_01_Solution.deps.json
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\bin\Debug\net8.0\Lab_01_Solution.runtimeconfig.json
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\bin\Debug\net8.0\Lab_01_Solution.dll
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\bin\Debug\net8.0\Lab_01_Solution.pdb
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\obj\Debug\net8.0\Lab_01_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\obj\Debug\net8.0\Lab_01_Solution.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\obj\Debug\net8.0\Lab_01_Solution.AssemblyInfo.cs
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\obj\Debug\net8.0\Lab_01_Solution.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\obj\Debug\net8.0\Lab_01_Solution.dll
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\obj\Debug\net8.0\refint\Lab_01_Solution.dll
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\obj\Debug\net8.0\Lab_01_Solution.pdb
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\obj\Debug\net8.0\Lab_01_Solution.genruntimeconfig.cache
+C:\Users\user\Desktop\ITI\Linq\Day_01\Lab_01\Lab_01_Solution\Lab_01_Solution\obj\Debug\net8.0\ref\Lab_01_Solution.dll

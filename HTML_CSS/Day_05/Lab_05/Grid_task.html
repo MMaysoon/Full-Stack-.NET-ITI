@@ -1,0 +1,207 @@
+<html>
+
+<head>
+    <title>Grid_Task</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            grid-template-rows: auto 1fr;
+            grid-template-areas:
+                "sidebar  header"
+                "sidebar gallery";
+            
+        }
+
+        /* 1.Sidebar */
+        .sidebar {
+            grid-area: sidebar;
+            background-color: white;
+            padding: 20px;
+            grid-template-rows: auto auto auto 1fr auto;
+            row-gap: 20px;
+            border-right: 2px #eee;
+        }
+
+        .logo {
+            font-size: 30px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .menu {
+            display: grid;
+            gap: 10px;
+        }
+
+        .menu a {
+            margin: 5px;
+            text-decoration: none;
+            color: #444;
+            font-size: 20px;
+            padding: 15px;
+            border-radius: 5px;
+        }
+
+        .menu a:hover {
+            background-color: #f0f0f0;
+        }
+
+        .icons {
+            display: grid;
+            grid-template-columns: repeat(3, auto);
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .icons i {
+            background-color: white;
+            border: 2px solid #333;
+            color: #333;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: grid;
+            place-items: center;
+            font-size: 18px;
+        }
+
+
+        .icons i:hover {
+            background-color: #333;
+            color: white;
+        }
+
+        .text {
+            padding: 5px;
+            font-size: 14px;
+            color: #555;
+        }
+
+        .flickr {
+            display: grid;
+            grid-template-columns: repeat(3,1fr);
+            gap: 10px;
+        }
+
+        .flickr img {
+            width: 100%;
+            border-radius: 6px;
+        }
+
+        /* 2.Header */
+        .header {
+            grid-area: header;
+            background-color: #ccd5dd;
+            padding: 20px;
+            display: grid;
+            /* grid-template-columns: repeat(5,1fr); */
+            grid-auto-flow: column;
+            gap: 30px;
+            justify-content: start;
+            align-items: center;
+            border: 2px solid #eee;
+            border-radius: 6px;
+        }
+
+        .header a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+
+        .header a:hover {
+            color: #f6f5f5;
+        }
+
+        /* Gallery */
+        .gallery {
+            grid-area: gallery;
+            padding: 20px;
+            display: grid;
+            grid-template-columns: repeat(4,1fr);
+            gap: 15px;
+        }
+
+        .gallery img {
+            width: 100%;
+            height: 90%;
+            border-radius: 10px;
+            transition: transform 0.3s ;
+        }
+
+        .gallery img:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+
+        <!-- 1.Sidebar -->
+        <div class="sidebar">
+            <div class="logo">INK</div>
+
+            <div class="menu">
+                <a href="#">Portfolio</a>
+                <a href="#">About Us</a>
+                <a href="#">Blog</a>
+                <a href="#">Buy This Theme</a>
+            </div>
+
+            <div class="icons">
+                <i class="fa-brands fa-twitter"></i>
+                <i class="fa-brands fa-behance"></i>
+                <i class="fa-brands fa-vimeo-v"></i>
+            </div>
+
+            <div class="text">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget quam orci.</p>
+            </div>
+            <div class="flickr">
+                <img src="img/1.jpg" alt="">
+                <img src="img/2.jpg" alt="">
+                <img src="img/3.jpg" alt="">
+                <img src="img/4.jpg" alt="">
+                <img src="img/2.jpg" alt="">
+                <img src="img/2.jpg" alt="">
+            </div>
+        </div>
+
+        <!-- 2.Header -->
+        <div class="header">
+            <a href="#">All</a>
+            <a href="#">Illustration</a>
+            <a href="#">Motion</a>
+            <a href="#">Photography</a>
+            <a href="#">Print</a>
+        </div>
+
+        <!-- 3.Gallery -->
+        <div class="gallery">
+            <img src="img/1.jpg" alt="">
+            <img src="img/2.jpg" alt="">
+            <img src="img/1.jpg" alt="">
+            <img src="img/1.jpg" alt="">
+            <img src="img/2.jpg" alt="">
+            <img src="img/3.jpg" alt="">
+            <img src="img/4.jpg" alt="">
+            <img src="img/2.jpg" alt="">
+            <img src="img/3.jpg" alt="">
+            <img src="img/1.jpg" alt="">
+            <img src="img/2.jpg" alt="">
+            <img src="img/3.jpg" alt="">
+            <img src="img/4.jpg" alt="">
+            <img src="img/4.jpg" alt="">
+            <img src="img/3.jpg" alt="">
+            <img src="img/4.jpg" alt="">
+
+        </div>
+</body>
+
+</html>

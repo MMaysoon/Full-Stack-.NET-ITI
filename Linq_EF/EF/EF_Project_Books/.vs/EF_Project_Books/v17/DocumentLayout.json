@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01661912-E311-4333-BFF6-DE6D7623D728}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\iti\\c#_advance\\ef_project_books\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01661912-E311-4333-BFF6-DE6D7623D728}|DAL\\DAL.csproj|solutionrelative:dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39E530-5FE7-48C9-B2F3-09B262033F77}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\iti\\c#_advance\\ef_project_books\\domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39E530-5FE7-48C9-B2F3-09B262033F77}|Domain\\Domain.csproj|solutionrelative:domain\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39E530-5FE7-48C9-B2F3-09B262033F77}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\iti\\c#_advance\\ef_project_books\\domain\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39E530-5FE7-48C9-B2F3-09B262033F77}|Domain\\Domain.csproj|solutionrelative:domain\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39E530-5FE7-48C9-B2F3-09B262033F77}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\iti\\c#_advance\\ef_project_books\\domain\\priceoffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39E530-5FE7-48C9-B2F3-09B262033F77}|Domain\\Domain.csproj|solutionrelative:domain\\priceoffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB39E530-5FE7-48C9-B2F3-09B262033F77}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\iti\\c#_advance\\ef_project_books\\domain\\booktag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB39E530-5FE7-48C9-B2F3-09B262033F77}|Domain\\Domain.csproj|solutionrelative:domain\\booktag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8F64DB-46E3-473A-AAF3-F3F386488DCE}|EF_Books\\EF_Books.csproj|c:\\users\\user\\desktop\\iti\\c#_advance\\ef_project_books\\ef_books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8F64DB-46E3-473A-AAF3-F3F386488DCE}|EF_Books\\EF_Books.csproj|solutionrelative:ef_books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceOffers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\Domain\\PriceOffers.cs",
+              "RelativeDocumentMoniker": "Domain\\PriceOffers.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\Domain\\PriceOffers.cs",
+              "RelativeToolTip": "Domain\\PriceOffers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:23:52.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookTag.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\Domain\\BookTag.cs",
+              "RelativeDocumentMoniker": "Domain\\BookTag.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\Domain\\BookTag.cs",
+              "RelativeToolTip": "Domain\\BookTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:23:47.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\DAL\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\DAL\\ApplicationDBContext.cs",
+              "RelativeToolTip": "DAL\\ApplicationDBContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:21:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\Domain\\Review.cs",
+              "RelativeDocumentMoniker": "Domain\\Review.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\Domain\\Review.cs",
+              "RelativeToolTip": "Domain\\Review.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:22:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\Domain\\Books.cs",
+              "RelativeDocumentMoniker": "Domain\\Books.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\Domain\\Books.cs",
+              "RelativeToolTip": "Domain\\Books.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:22:31.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\EF_Books\\Program.cs",
+              "RelativeDocumentMoniker": "EF_Books\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ITI\\C#_advance\\EF_Project_Books\\EF_Books\\Program.cs",
+              "RelativeToolTip": "EF_Books\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:22:20.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

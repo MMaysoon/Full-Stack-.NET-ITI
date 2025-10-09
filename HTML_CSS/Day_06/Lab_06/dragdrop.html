@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Drag and drop</title>
+    <style>
+        div {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            margin: 30px auto;
+            width: 80%;
+        }
+
+        section {
+            height: 15vh;
+            border: 2px dashed #ccc;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            padding: 10px;
+        }
+
+        #top {
+            background-color: #e0e7ff;
+        }
+
+        #bottom {
+            background-color: #fef3c7;
+        }
+
+        img {
+            width: 100px;
+            height: 100px;
+            border-radius: 5px;
+            cursor: grab;
+            transition: all 1s;
+        }
+
+        img:hover{
+            transform: scale(2) rotate(15deg); 
+        }
+
+    </style>
+</head>
+
+<body>
+    <div>
+        <section id='top'></section>
+        <section id='bottom'>
+            <img src='imgs/1.jpg' />
+            <img src='imgs/2.jpg' />
+            <img src='imgs/3.jpg' />
+            <img src='imgs/4.jpg' />
+            <img src='imgs/5.jpg' />
+            <img src='imgs/6.jpg' />
+        </section>
+    </div>
+
+    <script>
+
+        let images = document.querySelectorAll('img');
+        let top_ = document.querySelector('#top')
+        let bottom_ = document.querySelector('#bottom')
+
+        // 1. لما أبدأ أسحب الصورة
+        images.forEach(image => {
+            image.addEventListener('dragstart', (e) => {
+                e.dataTransfer.setData('myimg', e.target.outerHTML)
+            })
+
+            // 2. بعد السحب (اختياري: إخفاء الصورة الأصلية)
+            image.addEventListener('dragend', (e) => {
+                e.target.style.display = 'none'
+            })
+
+        })
+
+        // 3. لما أمر فوق المربع العلوي أثناء السحب
+        bottom_.addEventListener('dragleave', (e) => {
+            e.target.style.backgroundColor = 'rgb(214, 217, 237)'
+        })
+
+        // 4. طول ما الصورة فوق المربع العلوي
+        top_.addEventListener('drop', (e) => {
+            top_.innerHTML += e.dataTransfer.getData('myimg')
+        })
+
+        // 5. لما أرمي الصورة في المربع العلوي
+        top_.addEventListener('dragenter', (e) => {
+            e.preventDefault()
+        })
+
+        // 6. لما الصورة تخرج من فوق المربع
+        top_.addEventListener('dragover', (e) => {
+            e.preventDefault()
+        })
+    </script>
+</body>
+
+</html>

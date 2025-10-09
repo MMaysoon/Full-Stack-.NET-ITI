@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Task_1</title>
+    <style>
+        @keyframes mymove {
+            0% {
+                background-color: blue;
+                top: 0;
+                left: 0;
+            }
+
+            25% {
+                background-color: red;
+                top: 0;
+                left: 200px;
+            }
+
+            50% {
+                background-color: green;
+                top: 200px;
+                left: 200px;
+            }
+
+            75% {
+                background-color: pink;
+                top: 200px;
+                left: 0;
+            }
+
+            100% {
+                background-color: brown;
+                top: 0;
+                left: 0;
+            }
+        }
+
+        section {
+            margin: 100px auto;
+            width: 100px;
+            height: 100px;
+            border: 2px solid blue;
+            background-color:rgb(69, 225, 7);
+            position: relative;
+            transition: all 5s;
+        }
+
+        section:hover {
+            animation-play-state: paused;
+            transform: scale(1.5);
+            border-radius: 50%;
+        }
+
+        button {
+            margin: 140px auto;
+            padding: 10px 20px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <section id="box"></section>
+
+    <div style="text-align:center;">
+        <button id="startBtn">Start</button>
+        <button id="stopBtn">Stop</button>
+    </div>
+
+    <script>
+        const box = document.getElementById('box');
+        const startBtn = document.getElementById('startBtn');
+        const stopBtn = document.getElementById('stopBtn');
+
+        // Stop animation
+        stopBtn.addEventListener('click', () => {
+            box.style.animationPlayState = 'paused';
+        });
+
+        // Start animation
+        startBtn.addEventListener('click', () => {
+             box.style.animation = 'mymove 10s infinite';
+            box.style.animationPlayState = 'running';
+        });
+    </script>
+</body>
+
+</html>

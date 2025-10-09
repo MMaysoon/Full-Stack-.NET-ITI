@@ -1,0 +1,101 @@
+<html>
+
+<head>
+    <title> Add Multiplication </title>
+
+    <style>
+
+        .container {
+            display: flex;
+            gap: 30px;
+            background: #ffffff;
+            margin:40px ;
+            border-radius: 15px;
+            width: 80%;
+        }
+
+        .box {
+            background: #e0e7ff;
+            padding: 20px;
+            border-radius: 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            width: 400px;
+           
+        }
+
+        .box h3 {
+            text-align: center;
+            font-size: 25px;
+            color: #333;
+        }
+
+        input {
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+        }
+
+        button {
+            padding: 10px;
+            border-radius: 8px;
+            border: none;
+            background-color: #6366f1;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        button:hover {
+            background-color: #4f46e5;
+        }
+
+        .result {
+            background-color: #fef3c7;
+            padding: 10px;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box">
+            <h3>Addation</h3>
+            <input type="number" id="add1" placeholder="Number 1">
+            <input type="number" id="add2" placeholder="Number 2">
+            <button onclick="Add()">Add ➕</button>
+            <div class="result" id="AddResult">☑️ Result = </div>
+        </div>
+
+        <div class="box">
+            <h3>Multiplication</h3>
+            <input type="number" id="mul1" placeholder="Number 1">
+            <input type="number" id="mul2" placeholder="Number 2">
+            <button onclick="Mul()">Multiply ✖️</button>
+            <div class="result" id="mulResult"> ☑️ Result =</div>
+        </div>
+    </div>
+
+    <script>
+        function Add() {
+            let a = parseFloat(document.getElementById('add1').value);
+            let b = parseFloat(document.getElementById('add2').value);
+            document.getElementById('AddResult').textContent  ="☑️ Result =" + (a + b);
+        }
+
+        function Mul() {
+            let a = parseFloat(document.getElementById('mul1').value);
+            let b = parseFloat(document.getElementById('mul2').value);
+            document.getElementById('mulResult').textContent = "☑️ Result =" +  (a * b);
+        }
+    </script>
+</body>
+
+</html>
